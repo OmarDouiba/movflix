@@ -1,0 +1,19 @@
+bd1803c4a55a811d38dd098006787178
+
+Individual:
+https://api.themoviedb.org/3/search/movie/{movie_id}?api_key=bd1803c4a55a811d38dd098006787178&query=avatar
+
+Now Playing:
+https://api.themoviedb.org/3/search/movie/now_playing?api_key=bd1803c4a55a811d38dd098006787178&query=avatar
+
+Popular:
+https://api.themoviedb.org/3/search/movie/popular?api_key=bd1803c4a55a811d38dd098006787178&query=avatar
+
+Top Rate:
+https://api.themoviedb.org/3/search/movie/top_rated?api_key=bd1803c4a55a811d38dd098006787178&query=avatar
+
+Upcoming:
+https://api.themoviedb.org/3/search/movie/upcoming?api_key=bd1803c4a55a811d38dd098006787178&query=avatar
+
+search
+https://api.themoviedb.org/3/search/movie?api_key=bd1803c4a55a811d38dd098006787178&query={movie_name}

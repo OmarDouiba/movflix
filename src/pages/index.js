@@ -1,5 +1,5 @@
-import MovieDetails from './MovieDetail';
-import MovieList from './MovieList';
-import Search from './Search';
+export { MovieDetails } from './MovieDetail';
+export { MovieList } from './MovieList';
+export { Search } from './Search';
 
-import PageNotFound from './PageNotFound';
+export { PageNotFound } from './PageNotFound';
